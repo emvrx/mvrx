@@ -172,7 +172,7 @@ h2 {
 	margin: 0 auto;
 	width: 60px;
 	height: 1px;
-	background: #00d9ec;
+	background: #4677f3;
 	margin-top: 10px;
 }
 
@@ -204,12 +204,12 @@ h2 {
 .contact .icons li a {
 	display: block;
 	width: 25px;
-	height: 25px;
+	height: 55px;
 	opacity: .5;
 	-webkit-transition: opacity 0.3s;
 	-moz-transition: opacity 0.3s;
 	transition: opacity 0.3s;
-	color: black;
+	color: white;
 	font-size: 24px;
 }
 
